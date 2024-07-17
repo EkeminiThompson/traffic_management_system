@@ -16,7 +16,7 @@ This is a Python-based application for predicting and managing traffic volume us
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/traffic-management-system.git
+   git clone https://github.com/EkeminiThompson/traffic-management-system.git
    cd traffic-management-system
    ```
 
